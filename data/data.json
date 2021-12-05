@@ -1,0 +1,52 @@
+{
+  "countries": [
+    {
+      "name": "Australia",
+      "continent": "Oceania",
+      "flag": "images/australia.png",
+      "rank": 4
+    },
+    {
+      "name": "England",
+      "continent": "Europe",
+      "flag": "images/england.png",
+      "rank": 5
+    },
+    {
+      "name": "Namibia",
+      "continent": "Africa",
+      "flag": "images/namibia.png",
+      "rank": 8
+    },
+    {
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "flag": "images/newzealand.png",
+      "rank": 3
+    },
+    {
+      "name": "Pakistan",
+      "continent": "Asia",
+      "flag": "images/pakistan.png",
+      "rank": 6
+    },
+    {
+      "name": "Zimbabwe",
+      "continent": "Africa",
+      "flag": "images/zimbabwe.png",
+      "rank": 7
+    },
+    {
+      "name": "South Africa",
+      "continent": "Africa",
+      "flag": "images/southafrica.png",
+      "rank": 2
+    },
+    {
+      "name": "India",
+      "continent": "Asia",
+      "flag": "images/india.png",
+      "rank": 1
+    }
+  ]
+}
